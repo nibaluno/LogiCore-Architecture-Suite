@@ -1,0 +1,6 @@
+[
+  { "type": "cargo", "name": "Электроника", "weight": 1.5, "cost": 50.0 },
+  { "type": "cargo", "name": "Одежда", "weight": 0.8, "cost": 20.0 },
+  { "type": "transport", "name": "Грузовик (Земля)", "consumption": 15.0, "speed": 80.0 },
+  { "type": "transport", "name": "Самолет (Воздух)", "consumption": 150.0, "speed": 850.0 }
+]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+    <item type="cargo">
+        <name>Электроника</name>
+        <weight>1.5</weight>
+        <cost>50.0</cost>
+    </item>
+    <item type="cargo">
+        <name>Одежда</name>
+        <weight>0.8</weight>
+        <cost>20.0</cost>
+    </item>
+
+
+    <item type="transport">
+        <name>Грузовик (Земля)</name>
+        <consumption>15.0</consumption>
+        <speed>80.0</speed>
+    </item>
+    <item type="transport">
+        <name>Самолет (Воздух)</name>
+        <consumption>150.0</consumption>
+        <speed>850.0</speed>
+    </item>
+</root>
